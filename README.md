@@ -6,11 +6,11 @@ Projects are build with [Spring Boot (1.4.0.RELEASE)](http://projects.spring.io/
 ## Table of Content ##
 
  1. [Description](#description)
- 2. [Project Structure](#Project-Structure)
- 2. [Open Source Libraries Used](#Open-Source-Libraries-Used)
- 3. [Software](#Software)
- 4. [References](#References)
- 5. [About Me](#About-Me)
+ 2. [Project Structure](#project-structure)
+ 2. [Open Source Libraries Used](#open-source-libraries-used)
+ 3. [Software](#software)
+ 4. [References](#references)
+ 5. [About Me](#about-me)
 
 ## Description
 
