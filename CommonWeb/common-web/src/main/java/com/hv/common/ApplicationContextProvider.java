@@ -2,7 +2,9 @@ package com.hv.common;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
+import org.springframework.stereotype.Component;
 
+@Component
 public class ApplicationContextProvider implements ApplicationContextAware{
 	  
 	public static ApplicationContext getApplicationContext() {

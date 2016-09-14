@@ -7,8 +7,7 @@ public class CustomJxlsReportViewResolver extends UrlBasedViewResolver implement
 
 	@Override
 	public void afterPropertiesSet() throws Exception {
-		// TODO Auto-generated method stub
-		
+		setPrefix("file:"+"E:/Boot/CommonWeb/common-web/src/main/resources/");
 	}
 	
 	
